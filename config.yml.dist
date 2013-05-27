@@ -1,0 +1,4 @@
+markdown:
+    markdownifier:
+        enabled:    true
+        body_width: 80
